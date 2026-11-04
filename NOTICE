@@ -1,0 +1,21 @@
+ljg-learn
+Copyright (c) 2026 Samuel Shek (modifications)
+
+本项目改编自以下 MIT 许可作品：
+This project is adapted from the following MIT-licensed work:
+
+lijigang/ljg-skills — skills/ljg-learn
+https://github.com/lijigang/ljg-skills
+Copyright (c) 2026 lijigang — MIT License
+基于 commit 353ede4c9ad16b0828f9725fee6f00f8a0cebee2
+
+- 八维概念解剖、内观与压缩、org-mode 笔记格式来自原作者。
+  The eight-dimension anatomy, introspection/compression steps and the org-mode
+  note format come from the original author.
+- 本版新增“日常解释”模式，深度模式移入 references/deep-anatomy.md 并重写；
+  笔记保存目录可通过环境变量 LJG_NOTES_DIR 配置。
+  This version adds an everyday-explanation mode, rewrites the deep mode into
+  references/deep-anatomy.md, and makes the notes directory configurable via
+  LJG_NOTES_DIR.
+
+完整许可证见 LICENSE。 / See LICENSE for the full license text.
